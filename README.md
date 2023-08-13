@@ -37,3 +37,15 @@ After downloading the whole dataset, you can unzip **test.zip** to the `./testse
 ```
 ./run_test.sh
 ```
+
+## BibTeX
+```
+
+@article{liu2023fedforgery,
+  title={FedForgery: generalized face forgery detection with residual federated learning},
+  author={Liu, Decheng and Dang, Zhan and Peng, Chunlei and Zheng, Yu and Li, Shuang and Wang, Nannan and Gao, Xinbo},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2023},
+  publisher={IEEE}
+}
+```
